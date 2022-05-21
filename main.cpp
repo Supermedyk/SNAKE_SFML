@@ -1,3 +1,10 @@
+//////////////// STILL WORKING ON IT ///////////////////
+
+
+
+
+
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <string.h>
